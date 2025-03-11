@@ -1,1 +1,2 @@
-# Kinect-FruitNinjaClone
+# Kinect FruitNinja Replica
+ 
